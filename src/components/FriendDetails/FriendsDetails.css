@@ -1,0 +1,8 @@
+
+.details{
+    background-color: lightgreen;
+    border: 2px solid antiquewhite;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+    padding: 20px;
+}
